@@ -15,7 +15,6 @@ I'm an aspiring Full-Stack Developer, actively seeking internship opportunities 
   - Developed projects that focus on data-driven, interactive web, AI-powered applications.
   - Integrated third-party APIs like **Stripe** for payment handling and **OpenAI** for AI-driven features.
   - Built UIs with a focus on responsiveness and clean design.
-- 📫 **How to reach me**: Feel free to connect via [LinkedIn](https://www.linkedin.com/in/husnain-khaliq-5414b9277) or check out some of my recent work below!
   
 ---
 
