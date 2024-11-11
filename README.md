@@ -2,7 +2,7 @@
 
 ---
 
-## 🚀 Glad you're here 
+## Glad you're here 
 
 I'm an aspiring Full-Stack Developer, actively seeking internship opportunities that allow me to apply my skills in web development and database management. With a strong interest and focus on building AI-driven applications, I'm eager to work on projects that combine cutting-edge technology with practical solutions.
 
