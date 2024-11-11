@@ -66,4 +66,4 @@ I'm an aspiring Full-Stack Developer, actively seeking internship opportunities 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/husnain-khaliq-5414b9277)
 [![Personal Website](https://img.shields.io/badge/-Website-red?style=for-the-badge&logo=google-chrome&logoColor=white)](https://husnain-landingpage.vercel.app)
 
-Feel free to reach out! 
+Feel free to reach out 🚀 
