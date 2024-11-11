@@ -1,7 +1,6 @@
 # Hi there, I'm Husnain Khaliq! 👋
 
-I'm an aspiring **Full Stack Software Engineer** with a passion for building innovative snd scalable AI applications. Welcome to my GitHub profile!
-
+An aspiring **Full Stack Software Engineer** focused on building innovative snd scalable AI applications. Welcome to my GitHub profile!
 
 ---
 
@@ -15,7 +14,7 @@ I'm an aspiring **Full Stack Software Engineer** passionate about building respo
   - **Back-end**: Node.js, Express, Angular, SQL, Firebase
   - **Other Tools**: Git, Figma, Stripe, Clerk, APIs 
 - 👨‍💻 **Experience**: 
-  - Developed projects that focus on data-driven, interactive web applications.
+  - Developed projects that focus on data-driven, interactive web, AI-powered applications.
   - Integrated third-party APIs like **Stripe** for payment handling and **OpenAI** for AI-driven features.
   - Built UIs with a focus on responsiveness and clean design.
 - 📫 **How to reach me**: Feel free to connect via [LinkedIn](https://www.linkedin.com/in/husnain-khaliq-5414b9277) or check out some of my recent work below!
