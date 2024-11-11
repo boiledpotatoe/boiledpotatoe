@@ -56,8 +56,8 @@ I'm an aspiring Full-Stack Developer, actively seeking internship opportunities 
 
 ## 🌟 Featured Projects
 
-- 🚀 **[PromptWise](https://promptwise-first.vercel.app)**: A flashcard generator that uses OpenAI to help users study with ease. Built with **Next.js**.
-- 🏋️ **[FitNology](https://fitnologyy.vercel.app)**: A fitness app with workout tracking, designed to help users reach their health goals. Built with **React** **Next.js** and **Node.js**.
+- 🚀 **[PromptWise](https://promptwise-first.vercel.app)**: A flashcard generator that uses OpenAI to help users study with ease.
+- 🏋️ **[FitNology](https://fitnologyy.vercel.app)**: A fitness app with a BMI calculator and an AI fitness coach designed to help users stay healthy.
 
 ---
 
