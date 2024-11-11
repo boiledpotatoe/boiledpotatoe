@@ -5,10 +5,6 @@ I'm an aspiring **Full Stack Software Engineer** with a passion for building inn
 
 ---
 
-Absolutely! Here’s an updated **About Me** section with more focus on your skills, experience, and general interests as an aspiring full stack software engineer.
-
----
-
 ## 🚀 About Me
 
 I'm an aspiring **Full Stack Software Engineer** passionate about building responsive, user-friendly applications. With experience in **React**, **Node.js**, **Next.js**, and other modern web technologies, I'm excited to contribute to projects that combine creativity with functionality.
