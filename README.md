@@ -7,7 +7,7 @@ I'm an aspiring **Full Stack Software Engineer** with a passion for building inn
 
 ## 🚀 About Me
 
-I'm an aspiring **Full Stack Software Engineer** passionate about building responsive, user-friendly, scalable AI applications. With experience in **React**, **Node.js**, **Next.js**, and other modern web technologies, I'm excited to contribute to projects that combine creativity with functionality.
+I'm an aspiring **Full Stack Software Engineer** passionate about building responsive, user-friendly, and scalable AI applications. With experience in **React**, **Node.js**, **Next.js**, and other modern web technologies, I'm excited to contribute to projects that combine creativity with functionality.
 
 - 🌱 **Currently Learning**: Advanced techniques in full-stack development, REST APIs, and UI/UX design.
 - 🛠️ **Skills**: 
