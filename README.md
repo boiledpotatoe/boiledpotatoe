@@ -1,18 +1,18 @@
 # Hi there, I'm Husnain Khaliq! 👋
 
-I'm an aspiring **Full Stack Software Engineer** with a passion for building innovative web applications. Welcome to my GitHub profile!
+I'm an aspiring **Full Stack Software Engineer** with a passion for building innovative snd scalable AI applications. Welcome to my GitHub profile!
 
 
 ---
 
 ## 🚀 About Me
 
-I'm an aspiring **Full Stack Software Engineer** passionate about building responsive, user-friendly applications. With experience in **React**, **Node.js**, **Next.js**, and other modern web technologies, I'm excited to contribute to projects that combine creativity with functionality.
+I'm an aspiring **Full Stack Software Engineer** passionate about building responsive, user-friendly, scalable AI applications. With experience in **React**, **Node.js**, **Next.js**, and other modern web technologies, I'm excited to contribute to projects that combine creativity with functionality.
 
 - 🌱 **Currently Learning**: Advanced techniques in full-stack development, REST APIs, and UI/UX design.
 - 🛠️ **Skills**: 
-  - **Front-end**: HTML, CSS, JavaScript, React, Next.js
-  - **Back-end**: Node.js, Express, Angular
+  - **Front-end**: HTML, CSS, JavaScript, React, Next.js, MaterialUI
+  - **Back-end**: Node.js, Express, Angular, SQL, Firebase
   - **Other Tools**: Git, Figma, Stripe, Clerk, APIs 
 - 👨‍💻 **Experience**: 
   - Developed projects that focus on data-driven, interactive web applications.
