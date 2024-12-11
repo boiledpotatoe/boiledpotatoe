@@ -1,4 +1,4 @@
-# Hi, I'm Husnain! 👋 - An aspiring **Full Stack Software Engineer.**
+# Hi, I'm Husnain! 👋 - Aspiring **Full Stack Software Engineer.**
 
 ---
 
